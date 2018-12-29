@@ -2,7 +2,7 @@
 
 ### Installation
 ```
-npm i bokeh-vue --save-dev
+npm i bokeh-vue --save
 ```
 
 ### Usage
