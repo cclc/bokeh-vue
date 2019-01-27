@@ -32,7 +32,7 @@ export default {
 }
 </script>
 ```
-You can not set the value of 'bokehVersion', it defaults to 1.0.2
+You can set the value of 'bokehVersion' or it defaults to 1.0.2
 
 The type of 'div' and 'script' is array
 
