@@ -1,6 +1,6 @@
 {
   "name": "bokeh-vue",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "show bokeh chart in vue",
   "main": "index.js",
   "scripts": {
